@@ -1,0 +1,9 @@
+git pull origin main
+Step 1: git fetch --  tải code mới nhất về
+Step 2: git merge origin main -- trộn code mới tải về từ git fetch vào code của mình
+
+git checkout <tên branch>
+git checkout -b <tên branch>
+
+
+git merge origin main
