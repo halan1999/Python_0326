@@ -1,0 +1,12 @@
+# Trên 2 điều kiện
+
+score = 10
+
+if score >=9:
+    print("hs xuat sac")
+elif score >=8:
+    print("hs gioi")
+elif score >=8:
+    print ("hs kha")
+else:
+    print("hs trung binh")

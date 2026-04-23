@@ -1,0 +1,16 @@
+try:
+    a = int(input("Please enter a value: "))
+    b = int(input("Please enter b value: "))
+    if (b == a):
+        print("b cannot equal a")
+    print ("a/b: ", a/b)
+except Exception as ErrorMess:
+    print("Error:", ErrorMess)
+else: #Hàm else này KHÔNG lquan gì đến if ở trên, và hàm else này sẽ chỉ chạy khi tất cả các khối lệnh trong try không có Lỗi Exception nào
+    print("Successfully") 
+finally:
+    print ("Test pass")
+
+# Đoạn code trên được hiểu như sau:
+# Nó sẽ chạy dòng input trước. Nếu em nhập chữ thay vì số, nó nhảy thẳng xuống except ngay lập tức, không thèm nhìn các dòng bên dưới.
+# Nếu nhập số ổn: Nó kiểm tra if (b == a).
