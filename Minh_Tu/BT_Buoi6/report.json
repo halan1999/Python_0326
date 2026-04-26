@@ -1,0 +1,26 @@
+[
+    {
+        "ID": "SV001",
+        "Username": "Nguyễn Văn An",
+        "Grade": 8.5,
+        "Rank": "Giỏi"
+    },
+    {
+        "ID": "SV002",
+        "Username": "Trần Thị Bình",
+        "Grade": 9,
+        "Rank": "Xuất sắc"
+    },
+    {
+        "ID": "SV003",
+        "Username": "Lê Văn Cường",
+        "Grade": 6,
+        "Rank": "Trung bình"
+    },
+    {
+        "ID": "SV004",
+        "Username": "Phạm Thị Mai",
+        "Grade": 7.5,
+        "Rank": "Khá"
+    }
+]
