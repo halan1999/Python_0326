@@ -1,0 +1,38 @@
+[
+    {
+        "id_member": "MB-01",
+        "member_name": "Nguyễn Nam Khoa",
+        "year_of_birth": 1996,
+        "experience": 5
+    },
+    {
+        "id_member": "MB-02",
+        "member_name": "Nguyễn Trường Dương",
+        "year_of_birth": 1991,
+        "experience": 10
+    },
+    {
+        "id_member": "MB-03",
+        "member_name": "Trần Xuân An",
+        "year_of_birth": 1994,
+        "experience": 7
+    },
+    {
+        "id_member": "MB-04",
+        "member_name": "Trần Xuân Sơn",
+        "year_of_birth": 2000,
+        "experience": 3
+    },
+    {
+        "id_member": "MB-05",
+        "member_name": "Bùi Việt Toàn",
+        "year_of_birth": 1991,
+        "experience": 5
+    },
+    {
+        "id_member": "MB-06",
+        "member_name": "Bùi Minh Lộc",
+        "year_of_birth": 1997,
+        "experience": 8
+    }
+]
