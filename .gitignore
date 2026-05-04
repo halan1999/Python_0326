@@ -1,0 +1,12 @@
+# Chặn thư mục cấu hình của IDE (PyCharm, VS Code, v.v.)
+.idea/
+.vscode/
+
+# Chặn thư mục môi trường ảo
+env/
+venv/
+ENV/
+
+# Chặn các file rác khác của Python
+__pycache__/
+*.py[cod]
