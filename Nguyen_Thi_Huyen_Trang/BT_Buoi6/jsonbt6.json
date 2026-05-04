@@ -1,0 +1,26 @@
+[
+    {
+        "ID": "SV001",
+        "Name": "Nguyễn Văn An",
+        "Score": "8.5",
+        "Level": "Giỏi"
+    },
+    {
+        "ID": "SV002",
+        "Name": "Trần Thị Bình",
+        "Score": "9.0",
+        "Level": "Xuất sắc"
+    },
+    {
+        "ID": "SV003",
+        "Name": "Lê Văn Cường",
+        "Score": "6.0",
+        "Level": "Trung bình"
+    },
+    {
+        "ID": "SV004",
+        "Name": "Phạm Thị Mai",
+        "Score": "7.5",
+        "Level": "Khá"
+    }
+]
