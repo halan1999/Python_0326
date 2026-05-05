@@ -1,3 +1,0 @@
-# Hàm thay thế
-Phone = " 0123 432 423"
-print(Phone.replace(" ", ""))
