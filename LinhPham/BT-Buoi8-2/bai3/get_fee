@@ -1,0 +1,12 @@
+from grab_delivery import GrabDelivery
+from motorbike_deliver import MotobikeDelivery
+from truck_delivery import TruckDelivery
+
+def  get_shipping_cost(delivery_method, distance):
+    fee = delivery_method.calculate_fee(distance)
+    print(f"Loai giao hang nay co phi {fee}")
+    
+
+get_shipping_cost(GrabDelivery(), 10)
+get_shipping_cost(MotobikeDelivery(), 10)
+get_shipping_cost(TruckDelivery(), 10)
