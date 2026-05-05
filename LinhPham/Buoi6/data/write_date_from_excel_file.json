@@ -1,0 +1,22 @@
+[
+    {
+        "User name": "username",
+        "Pass": "password",
+        "Expect reuslt": "expected_result"
+    },
+    {
+        "User name": "admin",
+        "Pass": "admin123",
+        "Expect reuslt": "Đăng nhập thành công"
+    },
+    {
+        "User name": "user",
+        "Pass": "user123",
+        "Expect reuslt": "Đăng nhập thành công"
+    },
+    {
+        "User name": "admin",
+        "Pass": "wrongpass",
+        "Expect reuslt": "Sai mật khẩu"
+    }
+]
